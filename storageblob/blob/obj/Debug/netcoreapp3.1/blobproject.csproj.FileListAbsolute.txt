@@ -1,0 +1,36 @@
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Udemy\App\storageblob\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\App\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\Udemy\App\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Udemy\App\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Udemy\App\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Udemy\App\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Udemy\App\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\Udemy\App\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\Udemy\App\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\AZ-204\77 Lab Azure Blob storage -.Net - v12\storageblob\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
